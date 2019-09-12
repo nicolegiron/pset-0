@@ -46,7 +46,7 @@ public class ProblemSet0 {
      * Print a quoted message to the console.
      */
 
-    System.out.println("\"The answer's quite simple\", the professor said. \"Just think outside the box!\"\n");
+    System.out.println("\"The answer's quite simple,\" the professor said. \"Just think outside the box!\"\n");
 
     /*
      * Exercise 4.
@@ -68,9 +68,7 @@ public class ProblemSet0 {
     * Print a to-do list to the console.
     */
 
-   System.out.println("Here's today's to-do list:");
-   System.out.println("\t- Go food shopping");
-   System.out.println("\t- Mow the lawn\n");
+   System.out.println("Here's today's to-do list:\n\t\b\b\b\b- Go food shopping\n\t\b\b\b\b- Mow the lawn\n");
 
    /*
     * Exercise 6.
@@ -78,7 +76,7 @@ public class ProblemSet0 {
     * Print a square of text to the console.
     */
 
-   System.out.println("H E L L O\nE       A\nL       P\nL       C\nO A P C S\n");
+   System.out.println("H E L L O\nE\tA\nL\tP\nL\tC\nO A P C S\n");
 
 
    /*
