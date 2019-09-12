@@ -103,22 +103,22 @@ public class ProblemSet0 {
   System.out.println("  \\/     \\/     \\/");
 
 
-        /*
-         * Exercise 9.
-         *
-         * Print an encouraging message to the console.
-         */
+  /*
+* Exercise 9.
+*
+* Print an encouraging message to the console.
+*/
 
-        System.out.println(You're almost done with your first problem set...);
+System.out.println("You're almost done with your first problem set...");
 
-        /*
-         * Exercise 10.
-         *
-         * Print a plus sign to the console.
-         */
+/*
+* Exercise 10.
+*
+* Print a plus sign to the console.
+*/
 
-        System.out.println("+---+||");
-        System.out.println("+---++---+||+---++---+")
-        System.out.println("||+---+")
+System.out.println("    +---+\n    |   |");
+System.out.println("+---+   +---+\n|           |\n+---+   +---+");
+System.out.println("    |   |\n    +---+");
 }
 }
