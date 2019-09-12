@@ -18,27 +18,27 @@ public class ProblemSet0 {
 
     public static void main(String args) {
 
-        /*
-         * Exercise 1.
-         *
-         * Print a message to the console.
-         */
+      /*
+      * Exercise 1.
+      *
+      * Print a message to the console.
+      */
 
-        System.outprintln("\nHello, world! Am I a programmer yet?);
+     System.out.println("\nHello, world! Am I a programmer yet?\n");
 
-        /*
-         * Exercise 2.
-         *
-         * Print APCS in block letters to the console.
-         */
+     /*
+      * Exercise 2.
+      *
+      * Print APCS in block letters to the console.
+      */
 
-        System.out.println("##     ######  ######## ########");
-        System.out.printline(  #  #####");
-        System.out.println(" #    #  #    # #        #");
-        System.out.Println("######## #####  #        ########");
-        System.out.prinltn("#####");
-        System.Out.println("#      # #       #               #");
-        system.out.println("#################");
+     System.out.println("   ##     ######  ######## ########");
+     System.out.println("  #  #    #    #  #        #");
+     System.out.println(" #    #   #    #  #        #");
+     System.out.println("########  #####   #        ########");
+     System.out.println("#      #  #       #               #");
+     System.out.println("#      #  #       #               #");
+     System.out.println("#      #  #       # ######  #######");
 
         /*
          * Exercise 3.
