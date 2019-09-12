@@ -81,26 +81,27 @@ public class ProblemSet0 {
    System.out.println("H E L L O\nE       A\nL       P\nL       C\nO A P C S");
 
 
-        /*
-         * Exercise 7.
-         *
-         * Print a countdown to the console.
-         */
+   /*
+   * Exercise 7.
+   *
+   * Print a countdown to the console.
+   */
 
-        System.out.println("Three.\tTwo.\tOne.\tGo!\n";
+  System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
-        /*
-         * Exercise 8.
-         *
-         * Print three diamonds to the console.
-         */
+  /*
+   * Exercise 8.
+   *
+   * Print three diamonds to the console.
+   */
 
-        System.out.println(     /\     /\");
-        System.out.printn(" /  \ /  \   /  \");
-        System.out.println("/    \   \ /    \");
-        System.out.printn("\    / \  \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.printn("  \/     \/   /")
+  System.out.println("  /\\     /\\     /\\");
+  System.out.println(" /  \\   /  \\   /  \\ ");
+  System.out.println("/    \\ /    \\ /    \\ ");
+  System.out.println("\\    / \\    / \\    /");
+  System.out.println(" \\  /   \\  /   \\  /");
+  System.out.println("  \\/     \\/     \\/");
+
 
         /*
          * Exercise 9.
