@@ -9,14 +9,14 @@
  * the functionality for you, but unfortunately, my code is riddled with mistakes.
  * It's your job to fix the errors I've made, so that the code meets the
  * requirements set forth in this section (as well as the Deliverables section).
- * 
+ *
  * Work through these exercises on your own. Experiment, make mistakes, ask
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-Public Class PSet0 {
+public class ProblemSet0 {
 
-    public void Main(String args) {
+    public static void main(String args) {
 
         /*
          * Exercise 1.
@@ -117,4 +117,5 @@ Public Class PSet0 {
         System.out.println("+---+||");
         System.out.println("+---++---+||+---++---+")
         System.out.println("||+---+")
+}
 }
